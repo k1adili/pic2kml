@@ -1,8 +1,4 @@
- ____                    _   __  __       
-|  _ \   ___   __ _   __| | |  \/  |  ___ 
-| |_) | / _ \ / _` | / _` | | |\/| | / _ \ 
-|  _ < |  __/| (_| || (_| | | |  | ||  __/
-|_| \_\ \___| \__,_| \__,_| |_|  |_| \___|
+![](pic.jpg)
 
 To install the required library, run the following command
 pip -r requirements.txt
